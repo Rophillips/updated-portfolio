@@ -6,6 +6,7 @@ header {
 
     background-color: indigo !important; 
 }
-.btn btn-primary {
-    background-color:#6f42c1;
+.btn-primary {
+    background-color: mediumpurple !important;
+    border-color: none !important;
 }
