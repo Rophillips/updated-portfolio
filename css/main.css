@@ -8,5 +8,5 @@ header {
 }
 .btn-primary {
     background-color: mediumpurple !important;
-    border-color: none !important;
+    border-color: mediumpurple !important;
 }
