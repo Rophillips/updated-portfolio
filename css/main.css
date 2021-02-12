@@ -11,5 +11,7 @@ header {
     border-color: mediumpurple !important;
 }
 .btn-secondary {
-    margin-left: 10px;
+    background-color: mediumpurple !important;
+    border-color: mediumpurple !important;
+    float: right;
 }
